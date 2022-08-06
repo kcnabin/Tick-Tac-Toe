@@ -1,0 +1,12 @@
+event listener for 9 spaces
+
+area selected
+	check if area is already occupied
+		if already occupied, do nothing
+		else 
+			update in database
+			display values
+			check for game over?
+
+			
+
